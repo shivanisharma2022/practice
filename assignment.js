@@ -10,7 +10,7 @@ for(i=0; i<len; i++)
 }
 console.log(total);
 
-//this comment is added by pankaj
+//this comment is added by pankaj parmar
 
 
 
